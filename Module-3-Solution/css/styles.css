@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+#navbardrop{
+    background-color: #ff9999;
+}
+div>a{
+    text-align: center;
+    display: block;
+    font-size:20px;
+    font-weight: 500;
+}
+a:hover, a:active{
+    background-color:#ff6666 ;
+}
+h3{
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: xx-large;
+}
+.navbar-brand{
+    font-size:2em;
+    font-weight: 800;
+}
+.content{
+   padding-right: 5px;
+   padding-left: 5px;
+    padding-top: 10px;
+    border: 1px black solid;
+    background-color: #ffe6e6;
+}
+span{
+    font-weight: 600;
+    font-size: x-large;
+    text-align: center;
+    display: block;
+}
