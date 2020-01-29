@@ -17,7 +17,7 @@ a:hover, a:active{
     background-color:#ff6666 ;
 }
 h3{
-    text-align: center;
+    /* text-align: center; */
     margin-top: 20px;
     font-weight: 600;
     font-size: xx-large;
